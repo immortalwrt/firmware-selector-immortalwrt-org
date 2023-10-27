@@ -1,6 +1,6 @@
 {
     "tr-feedback-link": "Opinar",
-    "tr-load": "Descarga de firmwares d'OpenWrt pa preseos",
+    "tr-load": "Descarga de firmwares d'ImmortalWrt pa preseos",
     "tr-customize": "Personalizar los paquetes instalaos y/o'l script del primer arrique",
     "tr-version-build": "Tocante a esta compilación",
     "tr-request-build": "SOLICITAR LA COMPILACIÓN",
@@ -20,11 +20,11 @@
     "tr-date": "Data",
     "tr-not-found": "¡Nun s'atopó nengún modelu!",
     "tr-links": "Enllaces",
-    "tr-title": "Selector de firmwares d'OpenWrt",
+    "tr-title": "Selector de firmwares d'ImmortalWrt",
     "tr-tftp-help": "Les imáxenes TFTP úsense pa flaxar un preséu pel métodu TFTP del cargador d'arrinque.",
     "tr-dtb-help": "Blob del árbole del preséu. Esti ficheru configura'l kernel Linux pal hardware.",
     "tr-build-successful": "La compilación foi correuta",
     "tr-build-failed": "La compilación falló",
     "tr-uboot-help": "Imaxe del cargador d'arrinque. Software de nivel baxu que carga'l sistema operativu nel aniciu del arrinque.",
-    "tr-eva-help": "Imaxe con OpenWrt y un cargador d'arrinque."
+    "tr-eva-help": "Imaxe con ImmortalWrt y un cargador d'arrinque."
 }
