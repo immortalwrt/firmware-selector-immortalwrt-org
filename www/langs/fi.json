@@ -1,8 +1,8 @@
 {
     "tr-server-link": "Kaikki lataukset",
     "tr-not-found": "Mallia ei löytynyt!",
-    "tr-load": "Lataa OpenWrt-laiteohjelmisto laitteellesi",
-    "tr-title": "OpenWrt-laiteohjelmiston valitsin",
+    "tr-load": "Lataa ImmortalWrt-laiteohjelmisto laitteellesi",
+    "tr-title": "ImmortalWrt-laiteohjelmiston valitsin",
     "tr-message": "Kirjoita laitteesi mallin nimi, valitse sen jälkeen vakaa versio tai nightly-versio.",
     "tr-custom-build": "Mukautettu koonti",
     "tr-request-build": "Pyydä koontia",
@@ -15,7 +15,7 @@
     "tr-customize": "Mukauta asennettuja paketteja ja/tai ensimmäisen käynnistyksen komentosarjaa",
     "tr-model": "Malli",
     "tr-target": "Alusta",
-    "tr-eva-help": "Levykuva OpenWrt:llä ja käynnistyslataajalla.",
+    "tr-eva-help": "Levykuva ImmortalWrt:llä ja käynnistyslataajalla.",
     "tr-kernel-help": "Linux-ydin erillisenä levykuvana.",
     "tr-rootfs-help": "Juuritiedostojärjestelmä erillisenä levykuvana.",
     "tr-sdcard-help": "Levykuva joka on tarkoitettu asennettavaksi SD-kortille.",
@@ -31,7 +31,7 @@
     "tr-build-size": "Valitut paketit tarvitsevat enemmän tilaa kuin laitteessa on tarjolla",
     "tr-defaults": "Ensimmäisellä käynnistyksellä suoritettava komentosarja (uci-defaults)",
     "tr-tftp-help": "TFTP-tiedostoja käytetään firmwaren asentamiseen käynnistyslataajan (bootloader) TFTP-toiminnon kautta.",
-    "tr-sysupgrade-help": "Käytä \"Sysupgrade\"-tiedostoa päivitykseen laitteella jossa on jo OpenWrt käytössä. Sysupgrade-tiedoston voi ladata LuCI-käyttöliittymässä tai pääte-emulaattorilla.",
+    "tr-sysupgrade-help": "Käytä \"Sysupgrade\"-tiedostoa päivitykseen laitteella jossa on jo ImmortalWrt käytössä. Sysupgrade-tiedoston voi ladata LuCI-käyttöliittymässä tai pääte-emulaattorilla.",
     "tr-building-image": "Luodaan laiteohjelmiston levykuvaa",
     "tr-dtb-help": "Laitepuu-blob. Tämä tiedosto määrittää Linux-kernelin laitteistoa varten.",
     "tr-uboot-help": "Käynnistyslataimen kuva. Matalatasoinen ohjelmisto, joka lataa käyttöjärjestelmän varhain käynnistyksen yhteydessä.",
@@ -42,5 +42,5 @@
     "tr-unpack-imagebuilder": "Aseta ImageBuilder",
     "tr-calculate-packages-hash": "Vahvista pakettivalinta",
     "tr-download-imagebuilder": "Ladataan ImageBuilder-arkisto",
-    "tr-factory-help": "Käytä tehdaskuvaa flash-toiminnan toteuttamiseksi OpenWrtilla ensimmäistä kertaa reitittimeen. Yleensä tämä tehdään alkuperäisen laiteohjelmiston verkkokäyttöliittymän kautta."
+    "tr-factory-help": "Käytä tehdaskuvaa flash-toiminnan toteuttamiseksi ImmortalWrtilla ensimmäistä kertaa reitittimeen. Yleensä tämä tehdään alkuperäisen laiteohjelmiston verkkokäyttöliittymän kautta."
 }

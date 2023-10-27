@@ -1,6 +1,6 @@
 {
     "tr-server-link": "అన్ని డౌన్‌లోడ్‌లు",
-    "tr-load": "మీ పరికరం కోసం OpenWrt ఫర్మ్‌వేర్‌ను డౌన్‌లోడ్ చేయండి",
+    "tr-load": "మీ పరికరం కోసం ImmortalWrt ఫర్మ్‌వేర్‌ను డౌన్‌లోడ్ చేయండి",
     "tr-links": "లింకులు",
     "tr-version-build": "ఈ బిల్డ్ గురించి",
     "tr-custom-build": "కస్టమ్ బిల్డ్",
@@ -9,5 +9,5 @@
     "tr-model": "మోడల్",
     "tr-feedback-link": "అభిప్రాయం",
     "tr-not-found": "మోడల్ కనుగొనబడలేదు!",
-    "tr-title": "OpenWrt ఫర్మ్‌వేర్ సెలెక్టర్"
+    "tr-title": "ImmortalWrt ఫర్మ్‌వేర్ సెలెక్టర్"
 }
