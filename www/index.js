@@ -167,6 +167,7 @@ function buildAsuRequest(request_hash) {
           break;
         case 400: // bad request
         case 422: // bad package
+        case 429: // rate limit
         case 500: // build failed
           response.json().then((mobj) => {
             if ("stderr" in mobj) {
