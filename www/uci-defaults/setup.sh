@@ -1,7 +1,7 @@
 # Beware! This script will be in /rom/etc/uci-defaults/ as part of the image.
 # Uncomment lines to apply:
 #
-# wlan_name="OpenWrt"
+# wlan_name="ImmortalWrt"
 # wlan_password="12345678"
 #
 # root_password=""
